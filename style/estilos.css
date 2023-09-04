@@ -1,0 +1,25 @@
+#actualizar{
+    display: none;
+}
+#product-list {
+    max-height: 550px; /* Altura máxima de la tabla */
+    overflow-y: auto; /* Habilitar el desplazamiento vertical */
+}
+.total{
+    max-width: 250px;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 800;
+}
+#totalCuenta{
+    color: black;
+}
+#totalPendiente{
+    color: red;
+}
+#totalGeneral{
+    width: 45%;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 800;
+}
